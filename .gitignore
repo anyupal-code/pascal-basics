@@ -1,26 +1,29 @@
-# Бинарники Free Pascal
-*.o
-*.ppu
-*.a
-*.exe
-*.bin
+# ============================================
+# Скомпилированные бинарники (по именам, без расширения)
+# ============================================
 
-# Скомпилированные имена примеров
+# Урок 1
 hello
 structure
 full_structure
+
+# Урок 2
 types
 constants
 arithmetic
 logic
 io
 sum_avg
+
+# Урок 3
 if_demo
 nested_if
 case_demo
 case_char
 calculator
 sign
+
+# Урок 4
 for_demo
 while_demo
 repeat_demo
@@ -30,12 +33,16 @@ factorial
 prime
 fib
 bigfib
+
+# Урок 5
 array_basic
 min_max
 search
 reverse
 matrix
 string_array
+
+# Урок 6
 procedure_demo
 function_demo
 var_params
@@ -44,16 +51,64 @@ recursion
 gcd
 is_prime
 sum_array
+
+# Урок 7
 strings_basic
 string_ops
 case_convert
-reverse
 palindrome
 count_words
 parse_number
 char_codes
 
+# Урок 8
+record_basic
+record_array
+record_params
+nested_record
+set_basic
+set_chars
+phonebook
+
+# Урок 9
+text_write
+text_read
+text_append
+text_copy
+count_lines
+sum_numbers
+typed_file
+file_of_records
+
+# Урок 10
+phonebook
+phonebook.txt
+
+# ============================================
+# Рабочие файлы примеров (создаются при запуске)
+# ============================================
+data.txt
+in.txt
+out.txt
+nums.txt
+nums.dat
+points.dat
+
+# ============================================
+# Объектные файлы и модули Free Pascal
+# ============================================
+*.o
+*.ppu
+*.a
+
+# ============================================
+# Windows-бинарники
+# ============================================
+*.exe
+
+# ============================================
 # Служебное
+# ============================================
 *.bak
 *.tmp
 .DS_Store
