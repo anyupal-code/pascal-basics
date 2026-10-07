@@ -1,0 +1,44 @@
+# Бинарники Free Pascal
+*.o
+*.ppu
+*.a
+*.exe
+*.bin
+
+# Скомпилированные имена примеров
+hello
+structure
+full_structure
+types
+constants
+arithmetic
+logic
+io
+sum_avg
+if_demo
+nested_if
+case_demo
+case_char
+calculator
+sign
+for_demo
+while_demo
+repeat_demo
+break_continue
+nested
+factorial
+prime
+fib
+bigfib
+array_basic
+min_max
+search
+reverse
+matrix
+string_array
+
+# Служебное
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
