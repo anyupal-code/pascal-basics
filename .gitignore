@@ -36,6 +36,14 @@ search
 reverse
 matrix
 string_array
+procedure_demo
+function_demo
+var_params
+scope
+recursion
+gcd
+is_prime
+sum_array
 
 # Служебное
 *.bak
