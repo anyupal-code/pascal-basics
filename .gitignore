@@ -44,6 +44,14 @@ recursion
 gcd
 is_prime
 sum_array
+strings_basic
+string_ops
+case_convert
+reverse
+palindrome
+count_words
+parse_number
+char_codes
 
 # Служебное
 *.bak
